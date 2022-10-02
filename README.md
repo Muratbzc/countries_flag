@@ -6,7 +6,7 @@ Our goal in this project is to create countries information page using JavaScrip
 
 ## Outcome
 
-![Project 020](./flag_app.gif)
+![Project 020](./countries.gif)
 
 ## Objective
 
